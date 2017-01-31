@@ -1,3 +1,5 @@
 def text file
 
 to check on the conflict mode
+
+now to check the local edit conflict mode
